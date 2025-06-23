@@ -42,3 +42,24 @@ To explore the site, download or clone the repo and open `index.html` in your br
 1. Clone the repository:  
    ```sh
    git clone https://github.com/Sumon-59/css-ecommerce-project.git
+2.Open index.html in your preferred web browser to view the project.
+##Technologies
+HTML5
+
+CSS3 (Flexbox, Grid)
+
+JavaScript (for interactive features)
+##Project Structure
+/
+├── index.html
+├── product.html
+├── cart.html
+├── login.html
+├── register.html
+├── style.css
+└── images/
+##Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+##License
+This project is licensed under the MIT License.
+
